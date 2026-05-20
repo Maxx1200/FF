@@ -1,4 +1,4 @@
-127.0.0.1 facilicom.info
+127.0.0.1 cleaner.facilicom.info
 127.0.0.1 facilicom.ru
 127.0.0.1 facilicom.com
 127.0.0.1 45.130.41.118
